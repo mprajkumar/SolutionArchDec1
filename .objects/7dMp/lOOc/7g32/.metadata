@@ -1,0 +1,12 @@
+﻿{
+  "Id": "7g32xy2Uikam28nphor8uA",
+  "Reference": "0TTywdNhR0mv6TVKacGWyw/7g32xy2Uikam28nphor8uA",
+  "ParentRef": "0TTywdNhR0mv6TVKacGWyw/lOOccy0G0EKGtyyA2H4haw",
+  "Name": "ACME System 1 - Log In",
+  "Type": "Screen",
+  "Created": "2023-12-01T05:39:54.0561403Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-12-01T05:39:54.0561403Z"
+}

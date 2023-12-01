@@ -1,0 +1,12 @@
+﻿{
+  "Id": "NhAB7BAh7Uu6UAnkn1PbRg",
+  "Reference": "0TTywdNhR0mv6TVKacGWyw/NhAB7BAh7Uu6UAnkn1PbRg",
+  "ParentRef": "0TTywdNhR0mv6TVKacGWyw/lOOccy0G0EKGtyyA2H4haw",
+  "Name": "ACME System 1 - Dashboard",
+  "Type": "Screen",
+  "Created": "2023-12-01T05:44:23.8832752Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-12-01T05:44:23.8832752Z"
+}
